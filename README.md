@@ -1,1 +1,1 @@
-# -logseq-plugin-no1
+# logseq-plugin-no1
