@@ -1,0 +1,19 @@
+{
+  "name": "logseq-plugin-no1",
+  "version": "0.0.1",
+  "description": "我的第一个 Logseq 插件",
+  "main": "main.js",
+  "scripts": {
+    "build": "echo \"No build step required\""
+  },
+  "keywords": [
+    "logseq",
+    "plugin"
+  ],
+  "author": "latiao",
+  "license": "MIT",
+  "logseq": {
+    "id": "logseq-plugin-no1",
+    "title": "No1 插件"
+  }
+}
